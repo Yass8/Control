@@ -1,159 +1,189 @@
-# [Black Dashboard](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Black%20Dashboard%20by%20Creative%20Tim&url=https%3A%2F%2Fdemos.creative-tim.com%2Fblack-dashboard%2Fexamples%2Fdashboard.html&via=CreativeTim)
+# Matrix Admin Bootstrap 5
 
+<ul>
+  <li>  
+    <h4><a href="https://matrixadmin.wrappixel.com/">Demo Link</a></h4>
+  </li>
+  <li>
+    <h4><a href="http://matrixadmin.wrappixel.com/matrix-admin-package-full.zip">Download Link</a></h4>
+  </li>
+</ul>
+  
+<!-- Main image of Template -->
+<a target="_blank" href="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/matrix-bootstrap-admin-y.jpg">
+  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/matrix-bootstrap-admin-y.jpg" />
+</a>
 
- ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/black-dashboard/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/black-dashboard/issues/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/black-dashboard/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/black-dashboard/issues/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+<!-- Description of Template -->
+<p>Matrix Admin is basic yet very useful bootstrap 5 dashbaord template for your projects.If you are looking for modern yet clean admin template for your backend project. Matrix Admin is the right choice for you. If your application requires more options. We like to suggest you the Premium Templates.</p>
 
+<p>Please give us rate on github, Thanks<p>
 
-![Product Gif](https://s3.amazonaws.com/creativetim_bucket/github/gif/black-dashboard.gif)
+<!-- Upgrade to Premium version of Template -->
+<h2>Upgrade to Premium Admin Dashboards</h2>
 
-Black Dashboard is a beautiful Bootstrap 4 Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
-Black Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
+<!-- bootstrap premium dashboards -->
+<table>
+<thead>
+<tr>
+<th>MaterialPro Bootstrap Admin</th>
+<th>Ample Bootstrap Admin</th>
+<th>Monster Bootstrap Admin</th>
+<th>AdminPro Bootstrap Theme</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+  <a href="https://www.wrappixel.com/templates/materialpro/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/materialpro-bootstrap-admin-y.jpg" alt="Material pro Bootstrap" style="max-width:150px;">
+  </a>
+</td>
+<td>
+  <a href="https://www.wrappixel.com/templates/ampleadmin/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/ample-admin-bootstrap-y.jpg" alt="Ample Bootstrap Admin" style="max-width:150px;">
+  </a>
+</td>
+<td>
+  <a href="https://www.wrappixel.com/templates/monsteradmin/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/monster-bootstrap-admin-y.jpg" alt="Monster Bootstrap Admin" style="max-width:150px;">
+  </a>
+</td>
+  <td>
+  <a href="https://www.wrappixel.com/templates/adminpro/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-bootstrap-admin-template-y.jpg" alt="AdminPro Bootstrap Theme" style="max-width:150px;">
+  </a>
+</td>
+</tr>
+</tbody>
+</table>
 
-Black Dashboard features over 16 individual components, giving you the freedom of choosing and combining. This means that there are thousands of possible combinations. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
-We thought about everything, so this dashboard comes with 2 versions, Dark Mode and Light Mode. 
+<!-- angular premium dashboards -->
+<table>
+<thead>
+<tr>
+<th>MaterialPro Angular Admin</th>
+<th>Ample Admin Angular</th>
+<th>Monster Angular Admin</th>
+<th>AdminPro Angular Admin</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+  <a href="https://www.wrappixel.com/templates/materialpro-angular-dashboard/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/materialpro-angular-admin-y.jpg" alt="MaterialPro Angular 11 Admin" style="max-width:150px;">
+  </a>
+</td>
+<td>
+  <a href="https://www.wrappixel.com/templates/ample-admin-angular/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/ample-admin-angular-y.jpg" alt="Ample Angular Admin" style="max-width:150px;">
+  </a>
+</td>
+<td>
+  <a href="https://www.wrappixel.com/templates/monster-angular-dashboard/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/monster-angular-admin-y.jpg" alt="Monster Angular Admin" style="max-width:150px;">
+  </a>
+</td>
+  <td>
+  <a href="https://www.wrappixel.com/templates/adminpro-angular-dashboard/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-angular-dashboard-y.jpg" alt="AdminPro Angular Theme" style="max-width:150px;">
+  </a>
+</td>
+</tr>
+</tbody>
+</table>
 
-Special thanks go to:
-- [Robert McIntosh](https://github.com/mouse0270/bootstrap-notify) for the notification system.
-- [Chartist](https://gionkunz.github.io/chartist-js/) for the wonderful charts.
-We are very excited to share this dashboard with you and we look forward to hearing your feedback!
+<!-- react premium dashboards -->
+<table>
+<thead>
+<tr>
+<th>MaterialPro React Admin</th>
+<th>Ample React Admin</th>
+<th>Monster React Admin</th>
+<th>AdminPro React Admin</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+  <a href="https://www.wrappixel.com/templates/materialpro-react-redux-admin/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/materialpro-react-admin-y.jpg" alt="MaterialPro React Redux Admin" style="max-width:150px;">
+  </a>
+</td>
+<td>
+  <a href="https://www.wrappixel.com/templates/ample-react-dashboard/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/09/ample-react-admin-template-y.png" alt="Ample React Admin" style="max-width:150px;">
+  </a>
+</td>
+<td>
+  <a href="https://www.wrappixel.com/templates/monster-react-admin/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/06/monster-react-admin-template-y-20.jpg" alt="Monster React Admin" style="max-width:150px;">
+  </a>
+</td>
+  <td>
+  <a href="https://www.wrappixel.com/templates/adminpro-react-redux-admin/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-react-dashboard-y.jpg" alt="AdminPro React Theme" style="max-width:150px;">
+  </a>
+</td>
+</tr>
+</tbody>
+</table>
 
+<!-- vuejs premium dashboards -->
+<table>
+<thead>
+<tr>
+<th>MaterialPro Vuetify Admin</th>
+<th>Xtreme Vuesax Pro</th>
+<th>AdminPro Vuetify Dashboard</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+  <a href="https://www.wrappixel.com/templates/materialpro-vuetify-admin/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/05/materialpro-vuejs-dashboard-template-20.jpg" alt="MaterialPro Vuetify Admin" style="max-width:150px;">
+  </a>
+</td>
+<td>
+  <a href="https://www.wrappixel.com/templates/xtreme-vuesax-admin-pro/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/xtreme-vuesax-admin-y.jpg" alt="Xtreme Vuesax Admin" style="max-width:150px;">
+  </a>
+</td>
+<td>
+  <a href="https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/10/adminpro-vuetify-dasboard-template-y.jpg" alt="AdminPro Vuetify Dashboard" style="max-width:150px;">
+  </a>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- Licensing of Template -->
+<h2>Licensing</h2>
+<ul>
+  <li>
+    <p>Copyright 2021 Wrappixel (<a href="https://www.wrappixel.com/" rel="nofollow">https://www.wrappixel.com/</a>)</p>
+  </li>
+  <li>
+    <p>Licensed under MIT (<a href="https://www.wrappixel.com/license/">https://www.wrappixel.com/license/</a>)</p>
+  </li>
+</ul>
 
-## Table of Contents
+<!-- Useful Links of Template -->
+<h2>Useful Links</h2>
+<ul>
+<li><a href="https://www.wrappixel.com/templates/category/admin-template/">Admin Panel Template</a> from WrapPixel</li>
+<li><a href="https://www.wrappixel.com/">Free Bootstrap 5 Themes</a> from WrapPixel</li>
+<li><a href="https://www.wrappixel.com/templates/category/bootstrap-admin-templates/">Bootstrap 5 Admin Template</a> from WrapPixel</li>
+<li><a href="https://www.wrappixel.com/templates/category/angular-templates/">Angular JS Dashboard</a> from WrapPixel</li>
+<li><a href="https://www.wrappixel.com/templates/category/react-templates/">React Website Templates</a> from WrapPixel</li>
+<li><a href="https://www.wrappixel.com/templates/category/vuejs-templates/">Vue JS Templates</a> from WrapPixel</li>
+<li><a href="https://www.wrappixel.com/templates/category/free-templates/">Free Themes</a> from WrapPixel</li>
+</ul>
 
-
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Technical Support or Questions](#technical-support-or-questions)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
-
-
-## Demo
-
-- [Start page](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html)
-- [User profile page](https://demos.creative-tim.com/black-dashboard/examples/user.html)
-- [Tables page ](https://demos.creative-tim.com/black-dashboard/examples/tables.html)
-- [Maps Page](https://demos.creative-tim.com/black-dashboard/examples/map.html)
-- [Notifications page](https://demos.creative-tim.com/black-dashboard/examples/notifications.html)
-
-[View More](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html).
-
-
-## Quick start
-
-- `npm i black-dashboard`
-- Clone the repo: `git clone https://github.com/creativetimofficial/black-dashboard.git`.
-- [Download from Github](https://github.com/creativetimofficial/black-dashboard/archive/master.zip).
-- [Download from Creative Tim](https://www.creative-tim.com/product/black-dashboard).
-
-
-## Documentation
-The documentation for the Black Dashboard is hosted at our [website](https://demos.creative-tim.com/black-dashboard/docs/1.0/getting-started/introduction.html).
-
-
-## File Structure
-Within the download you'll find the following directories and files:
-
-```
-black-dashboard/
-├── CHANGELOG.md
-├── README.md
-├── assets
-│   ├── css
-│   │   ├── black-dashboard.css
-│   │   ├── black-dashboard.css.map
-│   │   ├── black-dashboard.min.css
-│   │   ├── bootstrap.min.css
-│   │   └── nucleo-icons.css
-│   ├── demo
-│   │   ├── demo.css
-│   │   └── demo.js
-│   ├── fonts/
-│   ├── img/
-│   ├── js
-│   │   ├── black-dashboard.js
-│   │   ├── black-dashboard.js.map
-│   │   ├── black-dashboard.min.js
-│   │   ├── core/
-│   │   └── plugins
-│   │       ├── bootstrap-notify.js
-│   │       ├── chartjs.min.js
-│   │       └── perfect-scrollbar.jquery.min.js
-│   └── scss/
-│       ├── black-dashboard/
-│       └── black-dashboard.scss
-├── docs
-│   └── documentation.html
-├── examples
-│   ├── dashboard.html
-│   ├── icons.html
-│   ├── map.html
-│   ├── notifications.html
-│   ├── rtl.html
-│   ├── tables.html
-│   ├── typography.html
-│   ├── upgrade.html
-│   └── user.html
-├── gulpfile.js
-├── package.json
-└── LICENSE.md
-
-
-```
-
-
-## Browser Support
-
-At present, we officially aim to support the last two versions of the following browsers:
-
-<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
-
-
-
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the Black Dashboard. Here are some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the Black Dashboard. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
-
-
-## Technical Support or Questions
-
-If you have questions or need help integrating the product please [contact us]() instead of opening an issue.
-
-
-
-## Licensing
-
-- Copyright 2019 Creative Tim (https://www.creative-tim.com/)
-
-- Licensed under MIT (https://github.com/creativetimofficial/black-dashboard/issues/blob/master/LICENSE.md)
-
-
-
-## Useful Links
-
-- [More products](https://www.creative-tim.com/bootstrap-themes) from Creative Tim
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
-
-##### Social Media
-
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
-
+<!-- Social Media of Wrappixel -->
+<h2>Social Media</h2>
+<p>Facebook: <a href="https://www.facebook.com/wrappixel">https://www.facebook.com/wrappixel</a></p>
+<p>Twitter: <a href="https://twitter.com/wrappixel">https://twitter.com/wrappixel</a></p>
+<p>Medium: <a href="https://medium.com/wrappixel">https://medium.com/wrappixel</a></p>
