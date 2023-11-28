@@ -1,18 +1,13 @@
 <?php
 
+use App\Http\Controllers\OperationsController;
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\DB;
 
-/*
-|--------------------------------------------------------------------------
-| Web Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register web routes for your application. These
-| routes are loaded by the RouteServiceProvider and all of them will
-| be assigned to the "web" middleware group. Make something great!
-|
-*/
 
 Route::get('/', function () {
-    return view('index');
-});
+    $operations = DB::table('operations')->whereVersionId(1)->get();
+    return view('index', compact('operations'));
+})->name('app');
+
+Route::resource('operation', OperationsController::class);
